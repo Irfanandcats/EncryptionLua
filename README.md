@@ -25,6 +25,18 @@ EncryptionLua has a couple of updates, it may be updated when issues with it are
 
 ```md
 Updates       | Version
+_____________________________
+
+```
+
+# Credits
+The project has its own credits for whoever helped with this.
+
+```
+Developer     | Job
+_____________________________
+
+Irfanandcats  | Lua developer
 ```
 
 - EncryptionLua Project
