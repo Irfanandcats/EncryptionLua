@@ -22,10 +22,7 @@ local encryptionLua = require("Location\"EncryptionLua\"EncryptionLua.lua")
 EncryptionLua has a couple of updates, it may be updated when issues with it are reported.
 
 ```md
-Updates:
-These are all the updates for EncryptionLua.
-
-none
+Updates       | Version
 ```
 
 - EncryptionLua Project
