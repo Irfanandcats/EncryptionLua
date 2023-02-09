@@ -5,5 +5,27 @@ Simply encrypt one text into a big chunk of encryption. Coming along with a key 
 EncryptionLua is a project based on a programming language called Lua.
 It works by having an encryption list that hides all the encrypted keys.
 
-### Notes
+## Note
 EncryptionList.js doesn't contain the decrypted keys, only encrypted.
+
+# Available Platforms
+EncryptionLua uses io.open, which needs to get the location after download.
+
+# How to use?
+Require the lua file from the following location.
+
+```lua
+local encryptionLua = require("Location\"EncryptionLua\"EncryptionLua.lua")
+```
+
+# Updates
+EncryptionLua has a couple of updates, it may be updated when issues with it are reported.
+
+```md
+Updates:
+These are all the updates for EncryptionLua.
+
+none
+```
+
+- EncryptionLua Project
