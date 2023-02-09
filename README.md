@@ -12,7 +12,9 @@ EncryptionList.js doesn't contain the decrypted keys, only encrypted.
 EncryptionLua uses io.open, which needs to get the location after download.
 
 # How to use?
-Require the lua file from the following location.
+
+1. Download EncryptionLua, available on the website.
+2. Require the lua file from the location where EncryptionLua is downloaded at.
 
 ```lua
 local encryptionLua = require("Location\"EncryptionLua\"EncryptionLua.lua")
